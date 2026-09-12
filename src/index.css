@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+@theme {
+  --color-neutral-950: #071a33;
+  --color-neutral-900: #0f2747;
+  --color-neutral-800: #17385f;
+}
+
 @layer base {
   html {
     font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
