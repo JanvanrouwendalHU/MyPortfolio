@@ -1,0 +1,7 @@
+{
+  "name": "Portfolio Website",
+  "description": "Een professionele en modulaire basis voor een portfolio website met projecten, vaardigheden, tijdlijn en contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
